@@ -1,12 +1,2 @@
 .idea
 data
-src/defenders/ror
-src/defenders/sor
-src/defenders/srs
-shells
-protocols/parameter-searcher
-protocols/viewers
-protocols/defenders/run_ror_sor_batched.py
-protocols/defenders/run_defense_on_clean.py
-src/utils/mongo_log.py
-.gitignore
