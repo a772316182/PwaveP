@@ -74,7 +74,7 @@ If this repository is helpful for your research, please consider citing our pape
 @article{li2026pwavep,
   title={PWAVEP: Purifying Imperceptible Adversarial Perturbations in 3D Point Clouds via Spectral Graph Wavelets},
   author={Li, Haoran and Liu, Renyang and Liu, Hongjia and Wang, Chen and Yin, Long and Xu, Jian},
-  journal={arXiv preprint arXiv:2602.03333},
+  journal={WWW},
   year={2026}
 }
 ```
